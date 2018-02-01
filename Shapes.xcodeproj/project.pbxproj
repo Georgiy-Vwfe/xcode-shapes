@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3FDCC11C202331FD00F393DE /* deus-vult.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FDCC11B202331FD00F393DE /* deus-vult.png */; };
+		3FDCC11E2023320400F393DE /* DeusVult.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FDCC11D2023320400F393DE /* DeusVult.png */; };
 		6910D05E1EA004B00096A7A1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6910D05D1EA004B00096A7A1 /* Assets.xcassets */; };
 		6910D0901EA009D10096A7A1 /* Contents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6910D08F1EA009D10096A7A1 /* Contents.swift */; };
 		6910D0A31EA011A40096A7A1 /* AbstractDrawable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6910D0931EA011A40096A7A1 /* AbstractDrawable.swift */; };
@@ -30,6 +32,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3FDCC11B202331FD00F393DE /* deus-vult.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "deus-vult.png"; sourceTree = "<group>"; };
+		3FDCC11D2023320400F393DE /* DeusVult.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DeusVult.png; sourceTree = "<group>"; };
 		6910D0531EA004B00096A7A1 /* Shapes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Shapes.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6910D05D1EA004B00096A7A1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6910D0621EA004B00096A7A1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -128,6 +132,8 @@
 			children = (
 				69CC39AF1FDA989100898EE0 /* README.md */,
 				6910D0B31EA011BC0096A7A1 /* Shapes.png */,
+				3FDCC11B202331FD00F393DE /* deus-vult.png */,
+				3FDCC11D2023320400F393DE /* DeusVult.png */,
 				6910D0B41EA011BC0096A7A1 /* SwiftBird.png */,
 			);
 			name = Resources;
@@ -196,7 +202,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				6910D0B61EA011BC0096A7A1 /* SwiftBird.png in Resources */,
+				3FDCC11C202331FD00F393DE /* deus-vult.png in Resources */,
 				6910D05E1EA004B00096A7A1 /* Assets.xcassets in Resources */,
+				3FDCC11E2023320400F393DE /* DeusVult.png in Resources */,
 				69CC39B01FDA989100898EE0 /* README.md in Resources */,
 				6910D0B51EA011BC0096A7A1 /* Shapes.png in Resources */,
 			);
